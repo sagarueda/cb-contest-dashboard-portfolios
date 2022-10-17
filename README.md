@@ -2,7 +2,7 @@
 # README
   
 ### Requirements for running locally
-This code create different plots containing information 
+This code create different plots containing information from the historical contest, mainly showing the best projects based on the best contestant and the historical of best contestant.
 
 - check that you have installed python 3.x preferibly 3.8 and beyond
     
