@@ -57,7 +57,7 @@ For running the code, you need to provide two different arguments in the command
 
 - `TOP_PROJECTS` is the number of projects that we want to see ordered by scored based in the frecuency that they were choose and the percentage in each portfolio.
 
-### program
+### Output program
 
  This program generates two plots and one table with the main information of the current contest.
  The main parameter is the number TOP_ENTRY which is the number of best contestant to be taken into account in the processing.
