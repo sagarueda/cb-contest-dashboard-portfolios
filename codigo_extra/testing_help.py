@@ -401,4 +401,54 @@ def plotting_historical4(data,data1,kpi,kpi1,width,height,title):
     
 
 
+#function to calculate points
+def points_calculator(historical_contest):
+    points = []
+    for index in range(len(historical_contest)):
+        contest_ranking_position = historical_contest['ranking'][index]
+        Ncontest = historical_contest['id_contest'][index]
+        numberOf_contest_participants = len(historical_contest[historical_contest['id_contest'] == Ncontest])
+        # timpes_in_top: number of times a participant received bonus in previous contests.
+        times_in_top = historical_contest['time_intops'][index]
+        # param max_times_in_top: max number of times a bonus was given during all past contests
+        max_times_in_top = historical_contest['max_time_intops'][index]
 
+        points.append(
+            contestPoints(contest_ranking_position, numberOf_contest_participants, times_in_top, max_times_in_top) - 20)
+    return points
+
+
+
+def total_best_enrolled_in_contest(historical_ranking_data, contest_current_data):
+    return len(pd.merge(contest_current_data, historical_ranking_data, on=["id"]))
+
+
+def load_historical_csv(filepath):
+    """read a csv file"""
+    historical = pd.read_csv(filepath, delimiter=',', encoding="utf8")
+    historical.rename(columns={"id_user": "id"}, inplace=True)
+    return historical
+
+
+def load_historical_csv2(filepath, delimiter=';', encoding='ISO-8859-1'):
+    """read a csv file"""
+    historical = pd.read_csv(filepath, delimiter=delimiter, encoding=encoding)
+
+    return historical
+
+
+def re_ranking_contest(data,top_entry = 10):
+  newdata = data[data['ranking'] < top_entry+1 ]
+  return newdata
+
+
+def add_time_intops(data, topentry=25):
+    """ """
+    aux = [1 if val < topentry + 1 else 0 for val in data['ranking']]
+    data['time_intops'] = [aux[val] for val in range(len(aux))]
+
+
+def add_max_time_intops(data, topentry=25):
+    """ """
+    aux = [1 if val < topentry + 1 else 0 for val in data['ranking']]
+    data['max_time_intops'] = [sum(aux[0:val + 1]) for val in range(len(aux))]

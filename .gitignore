@@ -1,8 +1,8 @@
 .DS_Store
 .vscode
+*.html
 data/
 Queries_MySQL/
-*.html
-
-# python
+outputPlots/
 __pycache__/
+# python
