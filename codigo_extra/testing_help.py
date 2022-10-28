@@ -452,3 +452,16 @@ def add_max_time_intops(data, topentry=25):
     """ """
     aux = [1 if val < topentry + 1 else 0 for val in data['ranking']]
     data['max_time_intops'] = [sum(aux[0:val + 1]) for val in range(len(aux))]
+	
+	
+                                            style_data_conditional=[
+                                                {
+                                                    'if': {
+                                                        'filter_query': '{performance} < 0',
+                                                        'column_id': 'performance'
+                                                    },
+                                                    'backgroundColor': 'tomato',
+                                                    'color': 'white'
+                                                }
+                                            ])
+                                            )	

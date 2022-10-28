@@ -1,0 +1,78 @@
+slug,puntos_totales,average_points,name,ticker,prettyName
+binancecoin,110,4.782608695652174,Binance Coin,bnb,BNB-Binance Coin
+matic-network,65,2.8260869565217392,Polygon,matic,MATIC-Polygon
+ethereum,65,2.8260869565217392,Ethereum,eth,ETH-Ethereum
+bitcoin,65,2.8260869565217392,Bitcoin,btc,BTC-Bitcoin
+aave,60,2.608695652173913,Aave [New],aave,AAVE-Aave [New]
+velas,55,2.391304347826087,Velas,vlx,VLX-Velas
+solana,55,2.391304347826087,Solana,sol,SOL-Solana
+flamingo-finance,50,2.1739130434782608,Flamingo Finance,flm,FLM-Flamingo Finance
+qredo,50,2.1739130434782608,Qredo,qrdo,QRDO-Qredo
+ftx-token,50,2.1739130434782608,FTX Token,ftt,FTT-FTX Token
+ripple,50,2.1739130434782608,XRP,xrp,XRP-XRP
+cargox,50,2.1739130434782608,CargoX,cxo,CXO-CargoX
+chainlink,46,2.0,ChainLink,link,LINK-ChainLink
+huobi-token,41,1.7826086956521738,Huobi Token,ht,HT-Huobi Token
+chiliz,40,1.7391304347826086,Chiliz,chz,CHZ-Chiliz
+fantom,40,1.7391304347826086,Fantom,ftm,FTM-Fantom
+polkadot,35,1.5217391304347827,Polkadot,dot,DOT-Polkadot
+thorchain,35,1.5217391304347827,Thorchain,rune,RUNE-Thorchain
+decentraland,35,1.5217391304347827,Decentraland,mana,MANA-Decentraland
+ovr,35,1.5217391304347827,Ovr,ovr,OVR-Ovr
+pancakeswap-token,30,1.3043478260869565,PancakeSwap,cake,CAKE-PancakeSwap
+maker,30,1.3043478260869565,Maker,mkr,MKR-Maker
+the-sandbox,30,1.3043478260869565,SAND,sand,SAND-SAND
+ethereum-classic,28,1.2173913043478262,Ethereum Classic,etc,ETC-Ethereum Classic
+helium,27,1.1739130434782608,Helium,hnt,HNT-Helium
+theta-token,26,1.1304347826086958,Theta Network,theta,THETA-Theta Network
+xdce-crowd-sale,25,1.0869565217391304,XinFin,xdce,XDCE-XinFin
+near,25,1.0869565217391304,Near,near,NEAR-Near
+tigercash,25,1.0869565217391304,TigerCash,tch,TCH-TigerCash
+phoenix-global,25,1.0869565217391304,Phoenix Global,phb,PHB-Phoenix Global
+playermon,25,1.0869565217391304,Playermon,pym,PYM-Playermon
+syscoin,25,1.0869565217391304,Syscoin,sys,SYS-Syscoin
+mdex,25,1.0869565217391304,Mdex,mdx,MDX-Mdex
+professional-fighters-league-fan-token,25,1.0869565217391304,Professional Fighters League Fan Token,pfl,PFL-Professional Fighters League Fan Token
+sushi,25,1.0869565217391304,Sushi,sushi,SUSHI-Sushi
+star-atlas-dao,25,1.0869565217391304,Star Atlas DAO,polis,POLIS-Star Atlas DAO
+solchicks-token,25,1.0869565217391304,SolChicks Token,chicks,CHICKS-SolChicks Token
+quant-network,25,1.0869565217391304,Quant,qnt,QNT-Quant
+shiba-inu,25,1.0869565217391304,Shiba Inu,shib,SHIB-Shiba Inu
+saito,25,1.0869565217391304,Saito,saito,SAITO-Saito
+yearn-finance,25,1.0869565217391304,yearn.finance,yfi,YFI-yearn.finance
+enq-enecuum,25,1.0869565217391304,Enecuum,enq,ENQ-Enecuum
+internet-computer,25,1.0869565217391304,Internet Computer,icp,ICP-Internet Computer
+crust-network,25,1.0869565217391304,Crust Network,cru,CRU-Crust Network
+crypto-birds,25,1.0869565217391304,Crypto Birds,xcb,XCB-Crypto Birds
+effect-network,25,1.0869565217391304,Effect Network,efx,EFX-Effect Network
+elrond-erd-2,25,1.0869565217391304,Elrond,egld,EGLD-Elrond
+carvertical,25,1.0869565217391304,carVertical,cv,CV-carVertical
+filecoin,25,1.0869565217391304,Filecoin [IOU],fil,FIL-Filecoin [IOU]
+guild-of-guardians,25,1.0869565217391304,Guild of Guardians,gog,GOG-Guild of Guardians
+concentrated-voting-power,25,1.0869565217391304,PowerPool Concentrated Voting Power,cvp,CVP-PowerPool Concentrated Voting Power
+aion,25,1.0869565217391304,Aion,aion,AION-Aion
+the-graph,24,1.0434782608695654,The Graph,grt,GRT-The Graph
+reserve-rights-token,23,1.0,Reserve Rights Token,rsr,RSR-Reserve Rights Token
+ocean-protocol,23,1.0,Ocean Protocol,ocean,OCEAN-Ocean Protocol
+frax-share,22,0.9565217391304347,Frax Share,fxs,FXS-Frax Share
+siacoin,21,0.9130434782608696,Siacoin,sc,SC-Siacoin
+ankr,21,0.9130434782608696,Ankr,ankr,ANKR-Ankr
+avalanche-2,20,0.8695652173913043,Avalanche,AVAX,AVAX-Avalanche
+king-shiba,20,0.8695652173913043,King Shiba,kingshib,KINGSHIB-King Shiba
+usd-coin,20,0.8695652173913043,USD Coin,usdc,USDC-USD Coin
+clearpool,20,0.8695652173913043,Clearpool,cpool,CPOOL-Clearpool
+pha,18,0.782608695652174,Phala Network,pha,PHA-Phala Network
+lido-staked-sol,18,0.782608695652174,Lido Staked SOL,stsol,STSOL-Lido Staked SOL
+lto-network,17,0.7391304347826086,LTO Network,lto,LTO-LTO Network
+uniswap,15,0.6521739130434783,Uniswap,uni,UNI-Uniswap
+cardano,15,0.6521739130434783,Cardano,ada,ADA-Cardano
+matrix-ai-network,15,0.6521739130434783,Matrix AI Network,man,MAN-Matrix AI Network
+cosmos,15,0.6521739130434783,Cosmos,atom,ATOM-Cosmos
+ethereum-name-service,15,0.6521739130434783,Ethereum Name Service,ens,ENS-Ethereum Name Service
+quark-chain,15,0.6521739130434783,QuarkChain,qkc,QKC-QuarkChain
+iota,15,0.6521739130434783,IOTA,miota,MIOTA-IOTA
+leo-token,15,0.6521739130434783,LEO Token,leo,LEO-LEO Token
+optimism,15,0.6521739130434783,Optimism,op,OP-Optimism
+omniaverse,15,0.6521739130434783,OmniaVerse,omnia,OMNIA-OmniaVerse
+nucleus-vision,15,0.6521739130434783,Nucleus Vision,ncash,NCASH-Nucleus Vision
+1inch,15,0.6521739130434783,1inch,1inch,1INCH-1inch

@@ -1,0 +1,116 @@
+slug,puntos_totales,average_points,name,ticker,prettyName
+bitcoin,145,3.536585365853658,Bitcoin,btc,BTC-Bitcoin
+quant-network,130,3.1707317073170733,Quant,qnt,QNT-Quant
+binancecoin,125,3.048780487804878,Binance Coin,bnb,BNB-Binance Coin
+matic-network,120,2.9268292682926833,Polygon,matic,MATIC-Polygon
+ethereum,115,2.804878048780488,Ethereum,eth,ETH-Ethereum
+qredo,115,2.804878048780488,Qredo,qrdo,QRDO-Qredo
+ripple,98,2.3902439024390243,XRP,xrp,XRP-XRP
+crypto-birds,95,2.317073170731707,Crypto Birds,xcb,XCB-Crypto Birds
+velas,93,2.268292682926829,Velas,vlx,VLX-Velas
+chiliz,85,2.073170731707317,Chiliz,chz,CHZ-Chiliz
+solchicks-token,80,1.951219512195122,SolChicks Token,chicks,CHICKS-SolChicks Token
+aave,80,1.951219512195122,Aave [New],aave,AAVE-Aave [New]
+chainlink,71,1.731707317073171,ChainLink,link,LINK-ChainLink
+flamingo-finance,70,1.707317073170732,Flamingo Finance,flm,FLM-Flamingo Finance
+ftx-token,65,1.5853658536585367,FTX Token,ftt,FTT-FTX Token
+polkadot,60,1.4634146341463417,Polkadot,dot,DOT-Polkadot
+fantom,60,1.4634146341463417,Fantom,ftm,FTM-Fantom
+casper-network,55,1.3414634146341464,Casper Network,cspr,CSPR-Casper Network
+numeraire,55,1.3414634146341464,Numeraire,nmr,NMR-Numeraire
+solana,55,1.3414634146341464,Solana,sol,SOL-Solana
+decentraland,52,1.2682926829268293,Decentraland,mana,MANA-Decentraland
+matrix-ai-network,51,1.2439024390243902,Matrix AI Network,man,MAN-Matrix AI Network
+cargox,50,1.2195121951219512,CargoX,cxo,CXO-CargoX
+phoenix-global,50,1.2195121951219512,Phoenix Global,phb,PHB-Phoenix Global
+maker,45,1.097560975609756,Maker,mkr,MKR-Maker
+huobi-token,41,1.0,Huobi Token,ht,HT-Huobi Token
+near,40,0.975609756097561,Near,near,NEAR-Near
+cosmos,40,0.975609756097561,Cosmos,atom,ATOM-Cosmos
+oasis-network,40,0.975609756097561,Oasis Network,rose,ROSE-Oasis Network
+avalanche-2,35,0.853658536585366,Avalanche,AVAX,AVAX-Avalanche
+ovr,35,0.853658536585366,Ovr,ovr,OVR-Ovr
+thorchain,35,0.853658536585366,Thorchain,rune,RUNE-Thorchain
+optimism,35,0.853658536585366,Optimism,op,OP-Optimism
+betu,32,0.7804878048780488,Betu,betu,BETU-Betu
+the-sandbox,30,0.7317073170731708,SAND,sand,SAND-SAND
+pancakeswap-token,30,0.7317073170731708,PancakeSwap,cake,CAKE-PancakeSwap
+ethereum-classic,28,0.6829268292682927,Ethereum Classic,etc,ETC-Ethereum Classic
+super-zero,27,0.6585365853658537,SERO,sero,SERO-SERO
+helium,27,0.6585365853658537,Helium,hnt,HNT-Helium
+zclassic,27,0.6585365853658537,Zclassic,zcl,ZCL-Zclassic
+bnsd-finance,26,0.6341463414634146,BNSD Finance,bnsd,BNSD-BNSD Finance
+sandclock,26,0.6341463414634146,Sandclock,quartz,QUARTZ-Sandclock
+theta-token,26,0.6341463414634146,Theta Network,theta,THETA-Theta Network
+crust-network,25,0.6097560975609756,Crust Network,cru,CRU-Crust Network
+aion,25,0.6097560975609756,Aion,aion,AION-Aion
+elrond-erd-2,25,0.6097560975609756,Elrond,egld,EGLD-Elrond
+effect-network,25,0.6097560975609756,Effect Network,efx,EFX-Effect Network
+disbalancer,25,0.6097560975609756,disBalancer,ddos,DDOS-disBalancer
+shiba-inu,25,0.6097560975609756,Shiba Inu,shib,SHIB-Shiba Inu
+syscoin,25,0.6097560975609756,Syscoin,sys,SYS-Syscoin
+mina-protocol,25,0.6097560975609756,Mina Protocol (IOU),mina,MINA-Mina Protocol (IOU)
+metahero,25,0.6097560975609756,Metahero,hero,HERO-Metahero
+saito,25,0.6097560975609756,Saito,saito,SAITO-Saito
+playermon,25,0.6097560975609756,Playermon,pym,PYM-Playermon
+polka-city,25,0.6097560975609756,Polka City,polc,POLC-Polka City
+boson-protocol,25,0.6097560975609756,Boson Protocol,boson,BOSON-Boson Protocol
+professional-fighters-league-fan-token,25,0.6097560975609756,Professional Fighters League Fan Token,pfl,PFL-Professional Fighters League Fan Token
+carvertical,25,0.6097560975609756,carVertical,cv,CV-carVertical
+concentrated-voting-power,25,0.6097560975609756,PowerPool Concentrated Voting Power,cvp,CVP-PowerPool Concentrated Voting Power
+tigercash,25,0.6097560975609756,TigerCash,tch,TCH-TigerCash
+mdex,25,0.6097560975609756,Mdex,mdx,MDX-Mdex
+internet-computer,25,0.6097560975609756,Internet Computer,icp,ICP-Internet Computer
+mancium,25,0.6097560975609756,Mancium,manc,MANC-Mancium
+goldario,25,0.6097560975609756,Goldario,gld,GLD-Goldario
+guild-of-guardians,25,0.6097560975609756,Guild of Guardians,gog,GOG-Guild of Guardians
+magic-internet-money,25,0.6097560975609756,Magic Internet Money,mim,MIM-Magic Internet Money
+filecoin,25,0.6097560975609756,Filecoin [IOU],fil,FIL-Filecoin [IOU]
+litentry,25,0.6097560975609756,Litentry,lit,LIT-Litentry
+star-atlas-dao,25,0.6097560975609756,Star Atlas DAO,polis,POLIS-Star Atlas DAO
+enq-enecuum,25,0.6097560975609756,Enecuum,enq,ENQ-Enecuum
+sushi,25,0.6097560975609756,Sushi,sushi,SUSHI-Sushi
+xdce-crowd-sale,25,0.6097560975609756,XinFin,xdce,XDCE-XinFin
+yearn-finance,25,0.6097560975609756,yearn.finance,yfi,YFI-yearn.finance
+the-graph,24,0.5853658536585366,The Graph,grt,GRT-The Graph
+reserve-rights-token,23,0.5609756097560975,Reserve Rights Token,rsr,RSR-Reserve Rights Token
+unizen,23,0.5609756097560975,Unizen,zcx,ZCX-Unizen
+ocean-protocol,23,0.5609756097560975,Ocean Protocol,ocean,OCEAN-Ocean Protocol
+frax-share,22,0.5365853658536586,Frax Share,fxs,FXS-Frax Share
+ankr,21,0.5121951219512195,Ankr,ankr,ANKR-Ankr
+siacoin,21,0.5121951219512195,Siacoin,sc,SC-Siacoin
+skale,21,0.5121951219512195,SKALE,skl,SKL-SKALE
+baby-doge-coin,20,0.4878048780487805,Baby Doge Coin,babydoge,BABYDOGE-Baby Doge Coin
+catecoin,20,0.4878048780487805,CateCoin,cate,CATE-CateCoin
+treeb,20,0.4878048780487805,Treeb,treeb,TREEB-Treeb
+clearpool,20,0.4878048780487805,Clearpool,cpool,CPOOL-Clearpool
+dappradar,20,0.4878048780487805,DappRadar,radar,RADAR-DappRadar
+usd-coin,20,0.4878048780487805,USD Coin,usdc,USDC-USD Coin
+energy-web-token,20,0.4878048780487805,Energy Web Token,ewt,EWT-Energy Web Token
+woonkly-power,20,0.4878048780487805,Woonkly Power,woop,WOOP-Woonkly Power
+king-shiba,20,0.4878048780487805,King Shiba,kingshib,KINGSHIB-King Shiba
+swissborg,19,0.46341463414634143,SwissBorg,chsb,CHSB-SwissBorg
+pha,18,0.4390243902439025,Phala Network,pha,PHA-Phala Network
+lido-staked-sol,18,0.4390243902439025,Lido Staked SOL,stsol,STSOL-Lido Staked SOL
+safemoon-2,17,0.41463414634146345,SafeMoon,safemoon,SAFEMOON-SafeMoon
+wazirx,17,0.41463414634146345,WazirX,wrx,WRX-WazirX
+lto-network,17,0.41463414634146345,LTO Network,lto,LTO-LTO Network
+nebulas,16,0.3902439024390244,Nebulas,nas,NAS-Nebulas
+uniswap,15,0.3658536585365854,Uniswap,uni,UNI-Uniswap
+acala,15,0.3658536585365854,Acala,aca,ACA-Acala
+frontier-token,15,0.3658536585365854,Frontier,front,FRONT-Frontier
+sora,15,0.3658536585365854,Sora,xor,XOR-Sora
+binance-usd,15,0.3658536585365854,Binance USD,busd,BUSD-Binance USD
+secret,15,0.3658536585365854,Secret,scrt,SCRT-Secret
+quark-chain,15,0.3658536585365854,QuarkChain,qkc,QKC-QuarkChain
+cardano,15,0.3658536585365854,Cardano,ada,ADA-Cardano
+polydoge,15,0.3658536585365854,PolyDoge,polydoge,POLYDOGE-PolyDoge
+gamium,15,0.3658536585365854,Gamium,gmm,GMM-Gamium
+one-ledger,15,0.3658536585365854,OneLedger,olt,OLT-OneLedger
+omniaverse,15,0.3658536585365854,OmniaVerse,omnia,OMNIA-OmniaVerse
+nucleus-vision,15,0.3658536585365854,Nucleus Vision,ncash,NCASH-Nucleus Vision
+ethereum-name-service,15,0.3658536585365854,Ethereum Name Service,ens,ENS-Ethereum Name Service
+leo-token,15,0.3658536585365854,LEO Token,leo,LEO-LEO Token
+kava,15,0.3658536585365854,Kava,kava,KAVA-Kava
+iota,15,0.3658536585365854,IOTA,miota,MIOTA-IOTA
+1inch,15,0.3658536585365854,1inch,1inch,1INCH-1inch
